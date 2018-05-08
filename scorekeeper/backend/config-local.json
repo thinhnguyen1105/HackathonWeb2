@@ -1,0 +1,5 @@
+{
+  "mongoPath": "mongodb://localhost:27017/score-keeperdb",
+  "sessionSecret": "himitsu",
+  "secureCookie": false
+}
